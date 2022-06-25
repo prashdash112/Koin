@@ -136,6 +136,3 @@ if __name__ =="__main__":
     app.run_server(debug=False)
 
 
-# As of now, the idea is to use the api_df & extrctor function inside update graph func to update the graphs 
-# 1) the api_df&Extractor will run, produces the desiered ops like open_df, etc 
-# 2) We'll import that info in the main file(app.py) & utilize it inside the graph update func to produce the final graph op.
