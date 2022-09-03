@@ -1,6 +1,0 @@
-numpy
-pandas
-dash
-plotly.express
-requests
-json
